@@ -45,6 +45,10 @@ The scraper makes three API calls:
 
 The PDF is then decoded and saved to disk.
 
+## Disclaimer
+
+This tool is for personal use to access your own billing data. Use in accordance with Liberty Energy's Terms of Service. Not affiliated with or endorsed by Liberty Energy and Water.
+
 ## License
 
 MIT
